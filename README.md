@@ -49,8 +49,9 @@ Star Schema Modeling (Fact & Dimensions)
 Gold Layer → Azure SQL DB
 
 ---
-
-##  Key Features
+```
+## ✅ Tech Stack
+```
 ✅ Incremental ingestion with Watermarking
 
 ✅ Delta Lake Time Travel & Schema Enforcement
@@ -63,13 +64,15 @@ Gold Layer → Azure SQL DB
 
 ---
 
+```
 ## Learning Outcomes
-Design and implement medallion architecture
+```
+1. Design and implement medallion architecture
 
-Build scalable pipelines using ADF
+2. Build scalable pipelines using ADF
 
-Work with Delta Lake features (VACUUM, Time Travel, etc.)
+3. Work with Delta Lake features (VACUUM, Time Travel, etc.)
 
-Use PySpark in Databricks to clean, transform, and model data
+4. Use PySpark in Databricks to clean, transform, and model data
 
-Load and query analytical data from Azure SQL Database
+5. Load and query analytical data from Azure SQL Database
